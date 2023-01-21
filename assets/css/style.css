@@ -339,10 +339,10 @@ footer {
     margin-bottom: 30px;
 }
 
-/*--------------------------------------------Contact Form*/
+/* ----------------------------------------Contact Form */
 
 .contact-heading {
-    font-family: 'Exo', sans-serif;
+    font-family: "Exo", sans-serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 20px;
@@ -361,7 +361,7 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
-/*--------------------------------------------Media Queries*/
+/* ----------------------------------------Media Queries */
 
 @media(min-width: 992px) {
     .center-form {
